@@ -1,0 +1,29 @@
+{
+    "name": "KafkaPush",
+    "version": "0.1.0",
+    "description": "Pushes Raw Data to Kafka using RdKafka Libray for further processing.",
+    "theme": false,
+    "require": {
+        "piwik": ">=2.16.5"
+    },
+    "authors": [
+        {
+            "name": "The Bruery",
+            "email": "viktore.zara@gmail.com",
+            "homepage": "https:\/\/github.com\/bruery"
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
