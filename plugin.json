@@ -14,16 +14,16 @@
         }
     ],
     "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
+        "email": "viktore.zara@gmail.com",
+        "issues": "https://disqus.com/home/channel/thebruery/discussion/channel-thebruery/bug_reporting/",
+        "forum": "https://disqus.com/home/channel/thebruery/discussion/channel-thebruery/bug_reporting/",
         "irc": "",
-        "wiki": "",
-        "source": "",
-        "docs": "",
+        "wiki": "https://github.com/bruery/piwik-plugin-kafkapush/wiki",
+        "source": "https://github.com/bruery/piwik-plugin-kafkapush",
+        "docs": "https://github.com/bruery/piwik-plugin-kafkapush/wiki",
         "rss": ""
     },
     "homepage": "",
-    "license": "GPL v3+",
+    "license": "MIT",
     "keywords": []
 }
